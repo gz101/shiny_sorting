@@ -1,0 +1,67 @@
+.column {
+  border: 1px solid black;
+  padding: 5px;
+  height: 900px;
+}
+
+#choicetext {
+  margin-left: 10px;
+}
+
+#selection {
+  background-color: olive;
+  color: white;
+  font-weight: bold;
+  width: 125px;
+}
+
+#insertion {
+  background-color: magenta;
+  color: white;
+  font-weight: bold;
+  width: 125px;
+}
+
+#shell {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  width: 125px;
+}
+
+#merge {
+  background-color: maroon;
+  color: white;
+  font-weight: bold;
+  width: 125px;
+}
+
+#results {
+  margin-top: 10px;
+  color: blue;
+  font-size: 16px;
+  overflow-y: scroll;
+  max-height: 100px;
+  background: ghostwhite;
+}
+
+#confirm {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+.modal-header {
+  background-color: khaki;
+  font-weight: bold;
+}
+
+table {
+  boder-collapse: collapse;
+}
+
+table, th, td {
+  font-size: 16px;
+  border: 1px solid black;
+  padding: 5px;
+}
